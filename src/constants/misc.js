@@ -497,8 +497,7 @@ export const ESSENCE_SHOP = {
   dragon: {
     flat_damage_vs_ender: {
       name: "One Punch",
-      description:
-        "After all other damage, add 500-2,500 damage to the first strike against Endermen and Endermites.",
+      description: "After all other damage, add 500-2,500 damage to the first strike against Endermen and Endermites.",
       maxLevel: 5,
     },
     mana_after_ender_kill: {
@@ -605,7 +604,8 @@ export const ESSENCE_SHOP = {
     },
     fresh_tools_kuudra: {
       name: "Fresh Tools",
-      description: "5-15% chance to double the speed of repairing Elle's Ballista for 10s during the Kuudra Boss Fight.",
+      description:
+        "5-15% chance to double the speed of repairing Elle's Ballista for 10s during the Kuudra Boss Fight.",
       maxLevel: 5,
     },
     headstart_kuudra: {
