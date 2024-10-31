@@ -573,7 +573,7 @@ export const ESSENCE_SHOP = {
     },
     frozen_skin: {
       name: "Frozen Skin",
-      description: "Increases your Defense by 2-10 while on Jerry's Workshop.",
+      description: "Grants 2-10 Cold Resistance.",
       maxLevel: 5,
     },
     season_of_joy: {
