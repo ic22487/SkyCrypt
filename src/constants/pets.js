@@ -1003,6 +1003,6 @@ export const PET_ITEMS = {
   PET_ITEM_TITANIUM_MINECART: {
     name: "Titanium Minecart",
     tier: "RARE",
-    description: `§7Grants §6+33.3 ${SYMBOLS.mining_fortune} Mining Fortune§7 when mining Titanium Ore.`,
+    description: `§7Grants §6+33.3 ${SYMBOLS.mining_fortune} Mining Fortune§7 when mining §fTitanium Ore§7.`,
   },
 };
